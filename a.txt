@@ -1,2 +1,6 @@
 aaaaaaaaaaa
+<<<<<<< HEAD
 a & b
+=======
+a and b
+>>>>>>> br
